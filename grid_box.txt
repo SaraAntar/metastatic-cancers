@@ -1,0 +1,4 @@
+protein
+spacing    1.000
+npts       86 126 98
+center    177.715 133.763 154.112
